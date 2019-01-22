@@ -1,6 +1,13 @@
 {
   "name": "bootcampJS",
   "version": "0.0.1",
+  "quokka": {
+    "jsdom": {
+      "file": "hangman/index.html",
+      "html": "...",
+      "userAgent": "..."
+    }
+  },
   "dependencies": {},
   "devDependencies": {
     "uuid": "^3.3.2"
