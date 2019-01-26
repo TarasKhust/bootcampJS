@@ -19,7 +19,7 @@ getPuzzle('2').then((puzzle) => {
 });
 
 getCountry('MX').then((country) => {
-	console.log(`Country name: ${country.name}`);
+	console.log(country.name);
 }, (err) => {
-	console.log(err);
+	console.log(`Error: ${err}`);
 });
