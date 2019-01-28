@@ -14,12 +14,19 @@ window.addEventListener('keypress', (e) => {
 
 getPuzzle('2').then((puzzle) => {
 	console.log(puzzle);
-}, (err) => {
+}).catch((err) => {
 	console.log(`Error: ${err}`);
 });
 
-getCountry('MX').then((country) => {
+getCountry('US').then((country) => {
 	console.log(country.name);
-}, (err) => {
+}).catch((err) => {
+	console.log(`Error: ${err}`);
+});
+
+getLocation().then((data) => {
+	console.log(
+			`The location City is ${data.city} and region is ${data.region} and country ${data.country} `);
+}).catch((err) => {
 	console.log(`Error: ${err}`);
 });
