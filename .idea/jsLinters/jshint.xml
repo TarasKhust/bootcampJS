@@ -10,7 +10,7 @@
     <option couch="false" />
     <option curly="true" />
     <option debug="false" />
-    <option devel="false" />
+    <option devel="true" />
     <option dojo="false" />
     <option elision="false" />
     <option enforceall="false" />
@@ -24,7 +24,7 @@
     <option expr="false" />
     <option forin="true" />
     <option freeze="false" />
-    <option funcscope="false" />
+    <option funcscope="true" />
     <option futurehostile="false" />
     <option gcl="false" />
     <option globalstrict="false" />
@@ -32,7 +32,7 @@
     <option iterator="false" />
     <option jasmine="false" />
     <option jquery="false" />
-    <option lastsemic="false" />
+    <option lastsemic="true" />
     <option latedef="false" />
     <option laxbreak="false" />
     <option laxcomma="false" />
@@ -52,7 +52,7 @@
     <option nonbsp="false" />
     <option nonew="true" />
     <option nonstandard="false" />
-    <option notypeof="false" />
+    <option notypeof="true" />
     <option noyield="false" />
     <option onevar="false" />
     <option passfail="false" />
@@ -64,15 +64,15 @@
     <option quotmark="false" />
     <option rhino="false" />
     <option scripturl="false" />
-    <option shadow="false" />
+    <option shadow="true" />
     <option shelljs="false" />
     <option singleGroups="false" />
     <option smarttabs="false" />
     <option strict="true" />
     <option sub="false" />
-    <option supernew="false" />
+    <option supernew="true" />
     <option trailing="false" />
-    <option typed="false" />
+    <option typed="true" />
     <option undef="true" />
     <option unused="false" />
     <option validthis="false" />
