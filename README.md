@@ -1,7 +1,6 @@
-# bootcampJS
-The Modern JavaScript Bootcamp (2019) 
+The Modern JavaScript (2019) 
 
-Learn JavaScript by building real-world apps. Includes 3 real-world projects, 80 programming challenges, and ES6/ES7!
+Learn JavaScript by building apps. Includes 3 projects, ES6/ES7!
 <p> Hangman
 https://taraskhust.github.io/bootcampJS/hangman/public/index.html
 <p> Todo List
